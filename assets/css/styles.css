@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: #f0f3f7;
+  background-color: #dae4f1;
   color: #333;
   line-height: 1.6;
   padding: 30px;
@@ -17,12 +17,14 @@ h1 {
   font-size: 1.8rem;
   margin-bottom: 5px;
   letter-spacing: 1px;
+  font-weight: bold;
 }
 
 h2 {
   color: #565ebb;
   font-size: 1rem;
   font-weight: 400;
+  font-weight: bold;
 }
 
 h3 {
